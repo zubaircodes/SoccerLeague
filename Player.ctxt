@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ The\ Player\ class\ stores\ the\ name\ and\ the\ number\ of\ a\ player\r\n\r\n\ @author\ Wei\ Liu,\ Zubair\r\n\ @version\ 2018.11.15\r\n
+comment1.params=name\ number
+comment1.target=Player(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Player\r\n
+comment2.params=
+comment2.target=void\ display()
+comment2.text=\r\n\ An\ override\ method\ display\ the\ information\ of\ the\ player\r\n
+numComments=3
